@@ -7,10 +7,10 @@
 
   <!-- versionCode is optional and Android only -->
 <preference name="phonegap-version" value="2.7.0" />
-  <name>MyLifeSports</name>
+  <name>Kids2ProSports</name>
 
   <description>
-    Kids2ProSports is the worlds premier multicultural Global Sports Network and Legacy Search Engine. Its exclusive Timeline Features provide the resources to Create, Share and Preserve “Your Sports Legacy“ from Childhood to Professional and Beyond.
+    Kids2ProSports is the world's premier multicultural Global Sports Network and Legacy Search Engine. It's exclusive “Timeline Features” provide the resources to Create, Share and Preserve “Your Sports Legacy“ from Childhood... to Professional and Beyond.
   </description>
 
   
